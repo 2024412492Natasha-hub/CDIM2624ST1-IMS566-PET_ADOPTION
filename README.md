@@ -65,12 +65,14 @@ git clone https://github.com/2024412492Natasha-hub/CDIM2624ST1-IMS566-PET_ADOPTI
 Copy the project folder into:
 
 xampp/htdocs/
-3. Start XAMPP
 
+3. Start XAMPP
+   
 Start:
 
 Apache
 MySQL
+
 4. Create Database
 
 Open phpMyAdmin
@@ -90,6 +92,7 @@ Update:
 Database name
 Username
 Password
+
 6. Run the project
 
 Open:
