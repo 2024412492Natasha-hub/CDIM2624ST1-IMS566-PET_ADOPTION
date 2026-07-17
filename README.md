@@ -94,7 +94,9 @@ Username
 Password
 
 7. Install composer
+```bash
 composer install
+```
 
 8. Run the project
 
