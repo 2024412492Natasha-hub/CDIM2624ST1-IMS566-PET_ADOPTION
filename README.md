@@ -97,3 +97,6 @@ http://localhost/pet_adoption/
 
 This project is developed for educational purposes only.
 
+## 🌐 Live Demo
+
+[Click here to open the Pet Adoption Management System](https://furever.infinityfreeapp.com/)
