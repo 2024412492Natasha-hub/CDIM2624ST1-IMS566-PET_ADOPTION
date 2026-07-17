@@ -93,7 +93,10 @@ Database name
 Username
 Password
 
-6. Run the project
+7. Install composer
+composer install
+
+8. Run the project
 
 Open:
 
