@@ -421,7 +421,7 @@ $result = $conn->query($query);
             <div class="col-md-3">
                 <div class="footer-title text-uppercase">Course Information</div>
                 <ul class="list-unstyled opacity-75">
-                    <li class="mb-2"><i class="fa-solid fa-code me-2"></i> IMS560 - Advanced Database Management System</li>
+                    <li class="mb-2"><i class="fa-solid fa-code me-2"></i> IMS566 - Advanced Web Design Development and Content Management</li>
                     <li class="mb-2"><i class="fa-solid fa-graduation-cap me-2"></i> Faculty of Information Management</li>
                     <li class="mb-2"><i class="fa-solid fa-calendar-days me-2"></i> Semester May 2026</li>
                 </ul>
