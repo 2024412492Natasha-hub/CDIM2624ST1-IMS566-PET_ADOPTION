@@ -103,5 +103,5 @@ This project is developed for educational purposes only.
 
 ## Presentation Video
 
-[Click here to watch the Presentation Video] (https://youtu.be/Y52L5Swglls?si=2OprO06WYNY1eCxg)
+[Click here to watch the Presentation Video](https://youtu.be/Y52L5Swglls?si=2OprO06WYNY1eCxg)
 
