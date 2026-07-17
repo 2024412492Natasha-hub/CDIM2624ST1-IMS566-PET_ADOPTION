@@ -81,24 +81,13 @@ Create a database.
 
 Import the provided SQL file.
 
-5. Configure Database
 
-Edit the database connection inside:
-
-db.php
-
-Update:
-
-Database name
-Username
-Password
-
-7. Install composer
+6. Install composer
 ```bash
 composer install
 ```
 
-8. Run the project
+7. Run the project
 
 Open:
 
